@@ -10,7 +10,7 @@ function Hero() {
                 </span>
 
                 <h1>
-                    Discover Amazing Deals
+                    Discover Amazing Deals On LalMirchi
                 </h1>
 
                 <p>
