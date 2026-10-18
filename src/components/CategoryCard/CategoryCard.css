@@ -1,0 +1,23 @@
+.category-card {
+    background: white;
+    padding: 28px 20px;
+    border-radius: 12px;
+    text-align: center;
+    border: 1px solid #e5e7eb;
+    transition: transform 0.2s ease;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+}
+
+.category-icon {
+    display: block;
+    font-size: 42px;
+    margin-bottom: 14px;
+}
+
+.category-card h3 {
+    font-size: 17px;
+    color: #111827;
+}
